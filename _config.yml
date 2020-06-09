@@ -1,20 +1,20 @@
 # --- Basic options --- #
 
 # Name of website
-title: My website
+title: O-Hub
 
 # Short description of your site
-description: A virtual proof that I'm awesome
+description: O-Hub Nigeria
 
 # Your name to show in the footer
-author: Some Person
+author: Peter Godfrey Obike
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Beautiful Jekyll: "https://beautifuljekyll.com"
+    - O-Hub: "#"
     - Learn markdown: "https://www.markdowntutorial.com/"
   Author's home: "https://deanattali.com"
 
@@ -51,7 +51,7 @@ social-network-links:
 #  instagram: deanat78
 #  youtube: user/deanat78
 #  spotify: yourname
-#  telephone: +14159998888
+  telephone: +2348034185981
 #  steam: deanat78
 #  twitch: yourname
 #  yelp: yourname
